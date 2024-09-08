@@ -1,20 +1,14 @@
 # List of Winget applications to install
 $apps = @(
     "Microsoft.PowerShell ",
-    "AppWork.JDownloader",
-    "Mozilla.Firefox",
     "Python.Python.3.11",
     "marktext",
-    "Microsoft.VisualStudioCode",
     "Microsoft.PowerToys",
-    "Nvidia.GeForceExperience",
     "DevToys-app.DevToys",
     "VideoLAN.VLC",
-    "Notion.Notion",
     "LocalSend.LocalSend",
     "charmbracelet.gum",
     "Git.Git",
-    "GitHub.cli",
     "Docker.DockerDesktop"
 )
 
