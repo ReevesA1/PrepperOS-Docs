@@ -1,3 +1,5 @@
+#!Winget Apps
+
 # Admin
 winget install -e --id Microsoft.PowerShell
 winget install -e --id Python.Python.3.11
@@ -42,3 +44,7 @@ winget install charmbracelet.gum
 winget install charmbracelet.glow
 winget install -e --id Git.Git
 winget install -e --id GitHub.cli
+
+#! Choco Apps
+choco install protonvpn
+choco install simplex
