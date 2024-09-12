@@ -44,7 +44,3 @@ winget install charmbracelet.gum
 winget install charmbracelet.glow
 winget install -e --id Git.Git
 winget install -e --id GitHub.cli
-
-#! Choco Apps
-choco install protonvpn
-choco install simplex
