@@ -24,6 +24,7 @@ winget install -e --id Notion.Notion
 winget install -e --id Obsidian.Obsidian
 winget install -e --id Microsoft.VisualStudioCode
 winget install marktext #! Not in the default winget.run website
+winget install -e --id SumatraPDF.SumatraPDF
 
 # Survival
 winget install -e --id Kiwix.KiwixJS
