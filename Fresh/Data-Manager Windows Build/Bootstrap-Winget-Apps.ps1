@@ -18,6 +18,7 @@ winget install -e --id TorProject.TorBrowser
 winget install -e --id qBittorrent.qBittorrent
 winget install -e --id AppWork.JDownloader
 winget install -e --id VideoLAN.VLC
+winget install -e --id fupdec.mediaChips
 
 # Productivity
 winget install -e --id Notion.Notion
