@@ -23,3 +23,4 @@ AdminCheck
 # Privacy
 choco install protonvpn
 choco install simplex
+choco install 7zip
