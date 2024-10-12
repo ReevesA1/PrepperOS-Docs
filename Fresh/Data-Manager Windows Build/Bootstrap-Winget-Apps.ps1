@@ -46,3 +46,7 @@ winget install charmbracelet.gum
 winget install charmbracelet.glow
 winget install -e --id Git.Git
 winget install -e --id GitHub.cli
+
+# Encryption
+winget install -e --id Cryptomator.Cryptomator
+winget install -e --id IDRIX.VeraCrypt
