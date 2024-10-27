@@ -8,6 +8,7 @@ winget install -e --id Nvidia.GeForceExperience
 winget install DevToys-app.DevToys #! Not in the default winget.run website
 winget install -e --id GitHub.GitHubDesktop
 winget install -e --id Docker.DockerDesktop
+winget install --exact --id MartiCliment.UniGetUI --source winget
 
 
 # Browsers
